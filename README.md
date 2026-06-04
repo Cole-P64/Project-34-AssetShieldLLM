@@ -14,7 +14,7 @@ The system was designed with non-technical users in mind. Small business owners 
 
 ## Architecture
 
-![AssetShield-LLM Flowchart](flowchart.png)
+![AssetShield-LLM Flowchart](Flowchart.png)
 
 The pipeline works in two phases:
 
